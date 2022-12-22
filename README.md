@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harmanjeet Singh
-- 👀 I’m interested in data scientist field
+- 👀 I’m enthusiastic in data scientist field
 - 🌱 I’m currently learning machine learning and deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
